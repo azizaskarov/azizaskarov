@@ -16,7 +16,7 @@
 
 
   ### ☕ Get in touch
-- LinkedIn: <a href = "[https://www.linkedin.com/azizaskarow/](https://www.linkedin.com/in/azizaskarow/)">Linkedin</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/azizaskarow/">Linkedin</a>
 - Telegram: <a href = "https://t.me/azizaskarow">Telegram</a>
 
 
