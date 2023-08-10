@@ -16,8 +16,8 @@
 
 
   ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/jamol-m-41a108232/">Aziz Askarov</a>
-- Telegram: <a href = "https://t.me/Jamol_Meyliyev">Aziz Askarov</a>
+- LinkedIn: <a href = "https://www.linkedin.com/azizaskarow/">Linkedin</a>
+- Telegram: <a href = "https://t.me/azizaskarow">Telegram</a>
 
 
 
