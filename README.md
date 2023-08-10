@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Aziz+Askarov+👋;Nice+to+meet+you!" /> </a> </p>
+<a href="https://github.com/azizaskarow"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Aziz+Askarov+👋;Nice+to+meet+you!" /> </a> </p>
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=azizaskarow&color=orange&label=Profile%20Views)](https://github.com/azizaskarow/azizaskarow)
@@ -16,7 +16,7 @@
 
 
   ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/azizaskarow/">Linkedin</a>
+- LinkedIn: <a href = "[https://www.linkedin.com/azizaskarow/](https://www.linkedin.com/in/azizaskarow/)">Linkedin</a>
 - Telegram: <a href = "https://t.me/azizaskarow">Telegram</a>
 
 
