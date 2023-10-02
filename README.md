@@ -1,8 +1,7 @@
 
 
-<p align="center">
-<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Aziz+Askarov+👋;Nice+to+meet+you!" /> </a> </p>
-<div align="center">
+# 👋 Hi, I’m Aziz Askarov
+> 📫 Contacts: azizasqarov773@gmail.com
 
 <p align="end">
 <a href="https://t.me/azizaskarow"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
