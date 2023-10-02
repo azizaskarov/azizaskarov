@@ -10,7 +10,7 @@
 </p>
 
 [![](https://komarev.com/ghpvc/?username=azizaskarow&color=orange&label=Profile%20Views)](https://github.com/azizaskarow/azizaskarow)
-[![](https://img.shields.io/github/followers/azizaskarow?label=GitHub%20Followers)](https://github.com/azizaskarow)
+
 
 
 --------------------------
