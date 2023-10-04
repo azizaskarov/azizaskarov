@@ -5,7 +5,7 @@
 
 <p align="end">
 <a href="https://t.me/azizaskarow"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://www.linkedin.com/in/azizaskrow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/azizaskarow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/azizaskarovv"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 </p>
 
